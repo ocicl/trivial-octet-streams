@@ -2,9 +2,8 @@
 
 A Common Lisp library for octet input and output streams analogous to string streams
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/sharplispers/trivial-octet-streams.git   |
-| commit  | bc5d398  |
-| systems | trivial-octet-streams |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------------------|
+| source  | git:https://github.com/sharplispers/trivial-octet-streams.git |
+| commit  | 71b0063                                                       |
+| systems | trivial-octet-streams                                         |
+|---------+---------------------------------------------------------------|
